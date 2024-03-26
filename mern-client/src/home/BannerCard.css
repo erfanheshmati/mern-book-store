@@ -14,21 +14,21 @@
 }
 
 .banner .swiper-slide:nth-child(1n) {
-  background-image: url("/public/assets/banner-books/img1.jpg");
+  background-image: url("/assets/banner-books/img1.jpg");
 }
 
 .banner .swiper-slide:nth-child(2n) {
-  background-image: url("/public/assets/banner-books/img2.jpg");
+  background-image: url("/assets/banner-books/img2.jpg");
 }
 
 .banner .swiper-slide:nth-child(3n) {
-  background-image: url("/public/assets/banner-books/img3.jpg");
+  background-image: url("/assets/banner-books/img3.jpg");
 }
 
 .banner .swiper-slide:nth-child(4n) {
-  background-image: url("/public/assets/banner-books/img4.jpg");
+  background-image: url("/assets/banner-books/img4.jpg");
 }
 
 .banner .swiper-slide:nth-child(5n) {
-  background-image: url("/public/assets/banner-books/img5.jpg");
+  background-image: url("/assets/banner-books/img5.jpg");
 }
